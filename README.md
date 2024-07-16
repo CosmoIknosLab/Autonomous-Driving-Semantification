@@ -34,7 +34,8 @@ Audi’s large autonomous driving dataset A2D2. This dataset provides camera, Li
 # Ontology Extension
 
 The class added regarding the following labels: **Person**, that have **Pedestrian**, **Cyclist** and **Person Sitting** classes as childrens, **Van** as a Automobile children, and **Tram** as a Special Vehicle. The image report the updated version of the Toyota Ontology:
-![image](https://github.com/user-attachments/assets/20f4dbd0-dd9a-484c-ac61-95dceb16a0c2)
+![image](https://github.com/user-attachments/assets/663897c0-01df-4c76-acb4-89812c477888)
+
 
 
 
